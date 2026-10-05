@@ -17,5 +17,13 @@ window.WORKS = [
     preview: "img/flowers.jpg",
     live: "https://k0lumiq.github.io/flowers-yablonka/",
     code: "https://github.com/K0lumiQ/flowers-yablonka"
+  },
+  {
+    title: "Yanki",
+    description: "Интернет-магазин женской верхней одежды по макету Figma: каталог, корзина и оформление заказа, личный кабинет, переключатель валют, анимации.",
+    stack: ["HTML", "CSS", "JS", "Анимации", "Адаптив"],
+    preview: "img/yanki.jpg",
+    live: "https://k0lumiq.github.io/yanki/",
+    code: "https://github.com/K0lumiQ/yanki"
   }
 ];

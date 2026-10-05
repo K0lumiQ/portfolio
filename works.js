@@ -25,5 +25,13 @@ window.WORKS = [
     preview: "img/yanki.jpg",
     live: "https://k0lumiq.github.io/yanki/",
     code: "https://github.com/K0lumiQ/yanki"
+  },
+  {
+    title: "Gerícht",
+    description: "Сайт ресторана и бара по макету Figma: слайдеры, меню с вкладками, онлайн-бронь стола, блог, вход. Тёмная тема с золотом.",
+    stack: ["HTML", "CSS", "JS", "Анимации", "Адаптив"],
+    preview: "img/gericht.jpg",
+    live: "https://k0lumiq.github.io/gericht/",
+    code: "https://github.com/K0lumiQ/gericht"
   }
 ];

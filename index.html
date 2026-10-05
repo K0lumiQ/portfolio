@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Портфолио — вёрстка сайтов</title>
+  <meta name="description" content="Портфолио вёрстки: сайты по макетам Figma на чистых HTML, CSS и JS.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <a class="logo" href="#">Портфолио</a>
+    <nav>
+      <a href="#works">Работы</a>
+      <a href="#about">Обо мне</a>
+      <a href="#contacts">Контакты</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <p class="eyebrow">Верстальщик</p>
+      <h1>Верстаю сайты по макетам Figma</h1>
+      <p class="lead">Чистые HTML, CSS и JS без сборщиков. Адаптивно, аккуратно, по пикселям макета.</p>
+      <a class="btn" href="#works">Смотреть работы</a>
+    </section>
+
+    <section id="works" class="works">
+      <h2>Работы</h2>
+      <div class="grid" id="grid"></div>
+    </section>
+
+    <section id="about" class="about">
+      <h2>Обо мне</h2>
+      <p>Учусь на системного администратора и параллельно практикуюсь в вёрстке. Беру макет, разбираю на компоненты и собираю рабочий сайт. <!-- TODO: заменить на свой текст --></p>
+    </section>
+
+    <section id="contacts" class="contacts">
+      <h2>Контакты</h2>
+      <ul>
+        <li>Почта: <a href="mailto:vladssg08@gmail.com">vladssg08@gmail.com</a></li>
+        <li>GitHub: <a href="https://github.com/sHiikky">sHiikky</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="foot">© 2026</footer>
+
+  <script src="works.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>

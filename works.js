@@ -33,5 +33,13 @@ window.WORKS = [
     preview: "img/gericht.jpg",
     live: "https://k0lumiq.github.io/gericht/",
     code: "https://github.com/K0lumiQ/gericht"
+  },
+  {
+    title: "Lens agency",
+    description: "Сайт маркетингового агентства для B2B по макету: главная, о компании, контакты. Pixel-perfect вёрстка на 3 ширины (1440 / 768 / 390), формы с проверкой, FAQ, анимации.",
+    stack: ["HTML", "CSS", "JS", "Анимации", "Адаптив"],
+    preview: "img/lens.jpg",
+    live: "https://k0lumiq.github.io/lens-agency/",
+    code: "https://github.com/K0lumiQ/lens-agency"
   }
 ];

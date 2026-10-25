@@ -33,4 +33,4 @@ npx http-server -p 5180 -c-1 .
 
 ## Проекты в витрине
 
-Classy Store, Цветы у яблоньки, Yanki, Gerícht, Lens agency (добавлен 2026-10-12). Новая работа: объект в `works.js` + скриншот 1440×900 в `img/`.
+Classy Store, Цветы у яблоньки, Yanki, Gerícht, Lens agency (добавлен 2026-10-12), Soda (добавлен 2026-10-25). Новая работа: объект в `works.js` + скриншот 1440×900 в `img/`.

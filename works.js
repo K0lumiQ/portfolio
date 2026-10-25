@@ -41,5 +41,13 @@ window.WORKS = [
     preview: "img/lens.jpg",
     live: "https://k0lumiq.github.io/lens-agency/",
     code: "https://github.com/K0lumiQ/lens-agency"
+  },
+  {
+    title: "Soda",
+    description: "Hero-лендинг напитка: 3D-банка следит за курсором, плавающие ягоды отталкиваются от мыши, пузыри, смена вкуса с вращением банки и перелётом ягод.",
+    stack: ["HTML", "CSS", "JS", "3D", "GSAP", "Анимации"],
+    preview: "img/soda.jpg",
+    live: "https://k0lumiq.github.io/soda/",
+    code: "https://github.com/K0lumiQ/soda"
   }
 ];
